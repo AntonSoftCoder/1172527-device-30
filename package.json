@@ -1,0 +1,19 @@
+{
+  "name": "1172527-device-30",
+  "version": "1.0.0",
+  "description": "* Студент: [Антон](https://up.htmlacademy.ru/htmlcss/30/user/1172527). * Наставник: [Дмитрий Могиль](https://htmlacademy.ru/profile/id398003).",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonSoftCoder/1172527-device-30.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonSoftCoder/1172527-device-30/issues"
+  },
+  "homepage": "https://github.com/AntonSoftCoder/1172527-device-30#readme"
+}
